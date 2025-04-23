@@ -79,3 +79,4 @@ This project shows the practical application of NLP in condensing and enriching 
 ---
 
 # OUTPUT:-#
+![Image](https://github.com/user-attachments/assets/8cde6a3c-a84e-4a00-a59c-c8143898c325)
